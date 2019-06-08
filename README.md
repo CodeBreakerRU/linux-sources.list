@@ -1,10 +1,10 @@
 For Ubuntu users
 
-nano /etc/apt/sources.list
+<b>nano /etc/apt/sources.list
 
 copy , paste and save it.
 
-Run     sudo apt-get update 
+Run    </br> sudo apt-get update </br>
 	sudo apt-get upgrade
 
 
