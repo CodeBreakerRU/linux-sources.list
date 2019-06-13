@@ -1,0 +1,11 @@
+#regular repos
+
+deb http://http.kali.org/kali kali-rolling main non-free contrib
+
+#In case you require source packages, you might also want to add the following repositories as well
+deb-src http://http.kali.org/kali kali-rolling main non-free contrib
+
+#Kali Rolling users are expected to have the following entries in their sources.list
+deb http://http.kali.org/kali kali-rolling main non-free contrib
+
+
