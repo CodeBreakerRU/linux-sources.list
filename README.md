@@ -1,4 +1,4 @@
-For Ubuntu users
+For Ubuntu / Debian users
 
 <b>nano /etc/apt/sources.list
 
